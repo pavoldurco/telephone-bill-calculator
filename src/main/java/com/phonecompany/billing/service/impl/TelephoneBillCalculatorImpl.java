@@ -1,6 +1,6 @@
 package com.phonecompany.billing.service.impl;
 
-import com.phonecompany.billing.PricingPolicy;
+import com.phonecompany.billing.policy.PricingPolicy;
 import com.phonecompany.billing.domain.PhoneCall;
 import com.phonecompany.billing.service.TelephoneBillCalculator;
 

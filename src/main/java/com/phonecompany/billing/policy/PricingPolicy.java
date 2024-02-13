@@ -1,4 +1,4 @@
-package com.phonecompany.billing;
+package com.phonecompany.billing.policy;
 
 import java.math.BigDecimal;
 import java.time.LocalTime;
